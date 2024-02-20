@@ -1,0 +1,4 @@
+Connor, Senior, Good, 3.0, 0.0
+Mason, Senior, Poor, 2.3, 600.0
+Farlow, Senior, Poor, 3.2, 200.0
+Jagger, Freshman, Good, 3.8, 0.0

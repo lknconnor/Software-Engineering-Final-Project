@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AppTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-12-05T22:18:54" hostname="CDLAPTOP" time="0.067">
+  <properties/>
+  <testcase name="testUpdateStatus()" classname="AppTest" time="0.037"/>
+  <testcase name="testMemberCreation()" classname="AppTest" time="0.001"/>
+  <testcase name="testPrintMembers()" classname="AppTest" time="0.026"/>
+  <system-out><![CDATA[Jagger is now in good standing.
+Marshal is now in poor standing.
+Charlie is now in good standing.
+Rick is now in poor standing.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
